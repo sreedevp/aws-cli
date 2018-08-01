@@ -1,0 +1,4 @@
+aws s3 ls                     = List of current s3 buckets
+
+aws s3 mb s3://<bucket_name>  = Create new s3 bucket
+
