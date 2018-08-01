@@ -1,0 +1,1 @@
+sudo aws ec2 run-instances --image-id ami-759bc50a --region us-east-1 --instance-type t2.micro --subnet-id subnet-e4b1a980 --security-group-ids sg-091019c3f3df2173e
