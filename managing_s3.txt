@@ -3,3 +3,5 @@ aws s3 ls                                    = List of current s3 buckets
 aws s3 mb s3://<bucket_name>                 = Create new s3 bucket
 
 aws s3 cp<source file> s3://<bucket name>    = Copy file from local server to s3
+
+aws s3 ls s3://<bucker name>                 = list contents
